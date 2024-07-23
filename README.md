@@ -16,6 +16,4 @@ Rana Jewelry is a modern and elegant jewelry website designed to showcase a wide
 
 To get started with the Rana Jewelry project, follow these steps:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/rana-jewelry.git
+
